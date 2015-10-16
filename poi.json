@@ -1,16 +1,14 @@
-[
-    {
-    "id":0,
-    "NL_name":"Stadhuis",
-    "ENG_name":"Town Hall",
-    "FR_name":"HÃ´tel de Ville",
-    "lat":-18.459202,
-    "lon":-70.281245,
-    "height": 5,
-    "NL_description":"Zoals vele Vlaamse steden in de Middeleeuwen kende Gent een zeer grote onafhankelijkheid en werd het stadsbestuur samengesteld door verkozen afgevaardigden van de gilden. In 1301 besloot de stad drie panden aan de Hoogpoort te kopen die gebruikt konden worden om te vergaderen. Naarmate de stad groeide en steeds welvarender werd, breidde men het stadhuis uit in verschillende bouwfasen. Tussen 1519 en 1540 gaf men het gebouw een ambitieus Laat-Gotisch aanzicht maar moesten de werken al snel gestaakt worden wegens geldgebrek. In de tweede bouwfase, tussen 1595 en 1616, hervatte men het project maar besloot men stijlgewijs te bouwen in de Italiaanse Renaissance-stijl die toen erg populair was. Om die reden bestaat het Gentse stadhuis tot op vandaag uit twee totaal verschillende bouwstijlen.",
-    "ENG_description":"As many Flemish cities in the Middle Ages, Ghent had a great independence and  the city council was composed by elected representatives of the guilds. In 1301 the city   decided to buy three buildings on the Hoogpoort which could be used for meetings . As the   city grew and became increasingly prosperous , they developed this town hall in two different   construction phases. Between 1519 and 1540, the building was given an ambitious Late   Gothic view but due to lack of money, the city had to stop contructions. In the second phase ,   between 1595 and 1616, the project was resumed, but they decided to build in the then very   popular Italian Renaissance style. For that reason, the Ghent city hall exists today of two   completely different building styles.",
-    "FR_description":"Lâ€™HÃ´tel de Ville de Gand est un bÃ¢timent aux nombreuses facettes. Le style gothique flamboyant de la faÃ§ade qui donne dans la Hoogpoort contraste vivement avec le style renaissance plutÃ´t sobre de celle du Botermarkt.\nÃ€ lâ€™intÃ©rieur, vous faites aussi connaissance avec nombre de styles diffÃ©rents: la Salle de lâ€™Arsenal et sa voÃ»te en bois, la magnifique Chapelle de mariage et ses six vitraux reprÃ©sentant les comtes de Flandre, la Salle de Pacification et son labyrinthe de carrelages blancs et noirs, symbole de la quÃªte de la justice et du bonheur, etc.",
-    "image_link":"http://upload.wikimedia.org/wikipedia/commons/2/2c/Gent_stadhuis_belfort_1890-1900.jpg",
-    "type":4
-    }
-]
+{
+    "POI": [
+        {
+            "id": 0,
+            "title": "Town Hall",
+            "lat": -18.459202,
+            "lon": -70.281245,
+            "height": 5,
+            "description": "As many Flemish cities in the Middle Ages, Ghent had a great independence and  the city council was composed by elected representatives of the guilds. In 1301 the city   decided to buy three buildings on the Hoogpoort which could be used for meetings . As the   city grew and became increasingly prosperous , they developed this town hall in two different   construction phases. Between 1519 and 1540, the building was given an ambitious Late   Gothic view but due to lack of money, the city had to stop contructions. In the second phase ,   between 1595 and 1616, the project was resumed, but they decided to build in the then very   popular Italian Renaissance style. For that reason, the Ghent city hall exists today of two   completely different building styles.",
+            "image_link": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Gent_stadhuis_belfort_1890-1900.jpg",
+            "type": 4
+        }
+    ]
+}
