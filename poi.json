@@ -2,13 +2,13 @@
     "POI": [
         {
             "id": 0,
-            "title": "Town Hall",
-            "lat": -18.459202,
-            "lon": -70.281245,
+            "title": "Morro de Arica",
+            "lat": -18.479850,
+            "lon": -70.323990,
             "elevation": 89,
             "height": 5,
             "webpage": "www.rincondeantonia.cl",
-            "description": "As many Flemish cities in the Middle Ages, Ghent had a great independence and  the city council was composed by elected representatives of the guilds. In 1301 the city   decided to buy three buildings on the Hoogpoort which could be used for meetings . As the   city grew and became increasingly prosperous , they developed this town hall in two different   construction phases. Between 1519 and 1540, the building was given an ambitious Late   Gothic view but due to lack of money, the city had to stop contructions. In the second phase ,   between 1595 and 1616, the project was resumed, but they decided to build in the then very   popular Italian Renaissance style. For that reason, the Ghent city hall exists today of two   completely different building styles.",
+            "description": "Histórico Morro de Arica",
             "image_link": "http://upload.wikimedia.org/wikipedia/commons/2/2c/Gent_stadhuis_belfort_1890-1900.jpg",
             "type": 4
         }
